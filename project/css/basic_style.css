@@ -68,11 +68,11 @@ text-shadow:1px .5px 4px rgba(170, 72, 72, 0.6);
 /* keyframes animation effects*/
 @keyframes race {
     0%, 100% {
-        transform:translateY (0px);
+        transform:translateY(0px);
         background-image:url("../icons/smiley2.png");
     }
     50% {
-        transform:translateY (300px);
+        transform:translateY(300px);
     }
 }
 
