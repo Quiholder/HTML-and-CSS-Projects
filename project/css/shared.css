@@ -236,7 +236,7 @@ h1 {
         box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
         font-family: 'Raleway', sans-serif;
     }
-    .reservaation input [type="text"]:hover {
+    .reservation input [type="text"]:hover {
         box-shadow: 0018px rgba(100, 65, 0, .8);
     }
     .form-spacer {
