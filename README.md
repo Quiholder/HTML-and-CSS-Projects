@@ -1,8 +1,8 @@
 # HTML-and-CSS-Projects
 This is a display of sample websites I made using HTML and CSS.
 
-PROJECTS
-Luxury Destinations Site
+PROJECTS:
+Luxury Destinations Site/
 Movie Theater Site
 
 Luxury Destionations Site
